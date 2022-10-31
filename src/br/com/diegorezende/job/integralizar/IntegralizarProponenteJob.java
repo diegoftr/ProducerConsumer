@@ -13,7 +13,7 @@ public class IntegralizarProponenteJob extends FAPJob {
 
 	@Override
 	protected int getQuantidadeTheads() {
-		return 1;
+		return 4;
 	}
 
 	@Override
